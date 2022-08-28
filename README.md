@@ -19,6 +19,7 @@ With a ***mention***:
 
 She will respond to certain ***keywords***! Such as:
 - Suwako
+- Meth *(Yes, you read that right)*
 >> *More will be added soon*
 
 ---------------------------------
