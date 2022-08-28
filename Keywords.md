@@ -29,4 +29,4 @@ For commands, start your commands with the prefix "c-"<br>
 
 ----------------------------------
 
-DM me on discord at **Sthilen#6077** if you want to add something or have any recommendations for her
+DM me on discord at **Sthilen#6077** if you want to add something or have any recommendations for her!
