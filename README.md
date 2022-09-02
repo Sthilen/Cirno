@@ -1,4 +1,3 @@
-
 # Here is a list of ***keywords*** you can use to talk to Cirno!
 
 With a ***mention***:
@@ -13,13 +12,15 @@ With a ***mention***:
     - "How" and "you"
     - "Weak" and "you"
 - Metioning "Daiyousei" to her
-- Calling her a baka or an idiot
+- Calling her "baka" or an "idiot"
+- Asking what's her power
 
 --------------------------------
 
 She will respond to certain ***keywords***! Such as:
 - Suwako
-- Meth *(Yes, you read that right)*
+- Meth *(Yes, you read it right)*
+- 9
 >> *More will be added soon*
 
 ---------------------------------
@@ -27,6 +28,8 @@ She will respond to certain ***keywords***! Such as:
 For commands, start your commands with the prefix "c-"<br>
 >Available commands:
 - help
+- freeze [@user] [time]
+- unfreeze [@user]
 
 ----------------------------------
 
